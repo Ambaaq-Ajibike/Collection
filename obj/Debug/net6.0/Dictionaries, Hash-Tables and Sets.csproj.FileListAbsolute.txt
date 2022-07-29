@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\hub prac{bubble sort}\Dictionaries, Hash-Tables and Sets\obj\Debug\net6.0\Dictionaries, Hash-Tables and Sets.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\hub prac{bubble sort}\Dictionaries, Hash-Tables and Sets\obj\Debug\net6.0\Dictionaries, Hash-Tables and Sets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\hub prac{bubble sort}\Dictionaries, Hash-Tables and Sets\obj\Debug\net6.0\Dictionaries, Hash-Tables and Sets.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\hub prac{bubble sort}\Dictionaries, Hash-Tables and Sets\obj\Debug\net6.0\Dictionaries, Hash-Tables and Sets.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\hub prac{bubble sort}\Dictionaries, Hash-Tables and Sets\obj\Debug\net6.0\Dictionaries, Hash-Tables and Sets.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\hub prac{bubble sort}\Dictionaries, Hash-Tables and Sets\bin\Debug\net6.0\Dictionaries, Hash-Tables and Sets.exe
+C:\Users\ADMIN\Desktop\hub prac{bubble sort}\Dictionaries, Hash-Tables and Sets\bin\Debug\net6.0\Dictionaries, Hash-Tables and Sets.deps.json
+C:\Users\ADMIN\Desktop\hub prac{bubble sort}\Dictionaries, Hash-Tables and Sets\bin\Debug\net6.0\Dictionaries, Hash-Tables and Sets.runtimeconfig.json
+C:\Users\ADMIN\Desktop\hub prac{bubble sort}\Dictionaries, Hash-Tables and Sets\bin\Debug\net6.0\Dictionaries, Hash-Tables and Sets.dll
+C:\Users\ADMIN\Desktop\hub prac{bubble sort}\Dictionaries, Hash-Tables and Sets\bin\Debug\net6.0\ref\Dictionaries, Hash-Tables and Sets.dll
+C:\Users\ADMIN\Desktop\hub prac{bubble sort}\Dictionaries, Hash-Tables and Sets\bin\Debug\net6.0\Dictionaries, Hash-Tables and Sets.pdb
+C:\Users\ADMIN\Desktop\hub prac{bubble sort}\Dictionaries, Hash-Tables and Sets\obj\Debug\net6.0\Dictionaries, Hash-Tables and Sets.dll
+C:\Users\ADMIN\Desktop\hub prac{bubble sort}\Dictionaries, Hash-Tables and Sets\obj\Debug\net6.0\ref\Dictionaries, Hash-Tables and Sets.dll
+C:\Users\ADMIN\Desktop\hub prac{bubble sort}\Dictionaries, Hash-Tables and Sets\obj\Debug\net6.0\Dictionaries, Hash-Tables and Sets.pdb
+C:\Users\ADMIN\Desktop\hub prac{bubble sort}\Dictionaries, Hash-Tables and Sets\obj\Debug\net6.0\Dictionaries, Hash-Tables and Sets.genruntimeconfig.cache
